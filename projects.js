@@ -33,7 +33,7 @@
       description: 'Website for making photos in a cool style',
       longDescription: 'A casual website I built just for fun, inspired by trends like the "blurry photo" craze.',
       techStack: ['HTML', 'CSS', 'JavaScript', '-', '-'],
-      url: 'https://kyxiinez.github.io/ftt/'
+      url: 'https://kyxiinez.github.io/ft/'
     },
     {
       title: 'Rental Platform',
