@@ -215,7 +215,7 @@
     },
     {
       title: 'Foto kita Blur',
-      url: 'https://kyxiinez.github.io/ftt/',
+      url: 'https://kyxiinez.github.io/ft/',
       image: 'images/Foto-blur.png',
       description: 'Website for making photos in a cool style',
       longDescription: 'A casual website I built just for fun, inspired by trends like the "blurry photo" craze.',
